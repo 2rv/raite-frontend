@@ -1,0 +1,13 @@
+{
+  "TITLE_CREATE": "Создать новость",
+  "FORM": {
+    "TITLE": "Заголовок",
+    "DESCRIPTION": "Описание",
+    "BODY": "Контент",
+    "STATUS": "Статус публикации",
+    "BUTTON_EDIT": "Обновить",
+    "BUTTON_CREATE": "Создать",
+    "BUTTON_DELETE": "Удалить"
+  },
+  "SUCCES_EDIT": "Новость успешно обновлена"
+}

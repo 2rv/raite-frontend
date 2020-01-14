@@ -1,0 +1,9 @@
+export const APP_PAGE_ID = 'APP_PAGE_ID';
+
+export const FORMS_NAMES = {
+  LOGIN: 'LOGIN_FORM_ID',
+  NEWS_EDIT: 'NEWS_EDIT_ID',
+  NEWS_CREATE: 'NEWS_CREATE_ID',
+};
+
+export const COOKIE_AUTH = 'COOKIE_AUTH_ID';

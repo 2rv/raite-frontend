@@ -1,0 +1,8 @@
+{
+  "FORM": {
+    "TITLE": "Вход в аккаунт",
+    "USERNAME": "Логин",
+    "PASSWORD": "Пароль",
+    "BUTTON_LOGIN": "Войти"
+  }
+}

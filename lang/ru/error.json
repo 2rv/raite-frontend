@@ -1,0 +1,9 @@
+{
+  "SIGNATURE_IS_BAD": "Доступ запрещен",
+  "AUTH_USER_NOT_FOUND": "Пользователь с таким логином не найден",
+  "AUTH_USER_UNCORRECT_DATA": "Указан неверный пароль",
+  "AUTH_USER_EXISTS": "Только пользователь уже существует",
+  "NEWS_NOT_FOUND": "Список новостей пуст",
+  "NEWS_WITH_ID_NOT_FOUND": "Новость по заданному URL не найдена",
+  "NEWS_TO_UPDATE_NOT_FOUND": "Новость, которую Вы пытаетесь обновить, не существует"
+}

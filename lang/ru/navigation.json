@@ -1,0 +1,12 @@
+{
+  "LOGOUT": "Выйти",
+  "ADMIN": {
+    "NEWS": "Новости",
+    "GDS": "Товары"
+  },
+  "NEWS_EDIT": {
+    "ADMIN_NEWS": "Все новости",
+    "ADMIN_NEWS_VIEW": "Просмотр",
+    "ADMIN_NEWS_EDIT": "Изменение"
+  }
+}
